@@ -8,3 +8,5 @@ GUI for easy interaction with UWPs, and managing of your apps.
 - Set install locations for specific applications
 - Move Apps across install locations
 - Easy sideloading
+- Store Access Through Client
+  - Update and Save .appx, .eappx through store client.
